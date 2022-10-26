@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sagar230595
-- 👀 I’m interested in Data SAcience and Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Applied Machine learning course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
